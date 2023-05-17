@@ -1,9 +1,9 @@
 ## Hi there! I'm Dimitar 👋
 <hr>
 
-🎓 Studying "Computer Science" with Java at PPMG "Geo Milev", Stara Zagora <br>
-👨‍💻 Student at SoftUni Bulgaria with C# <br>
-📱 Obsessed with technology <br>
+🎓 Studying "Computer Science" with Java at PPMG "Geo Milev", Stara Zagora <br><br>
+👨‍💻 Student at SoftUni Bulgaria with C# <br><br>
+📱 Obsessed with technology <br><br>
 😛 Level 15 of Life<br>
 <br>
 ### ⚡️GitHub Stats
