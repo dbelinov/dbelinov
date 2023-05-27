@@ -10,7 +10,7 @@
 <hr>
 
 <div class="images">
-<img src="https://github-readme-stats.vercel.app/api?username=dbelinov&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dbelinov&show_icons=true&theme=transparent&rank_icon=github"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dbelinov"/>
 </div>
 <!--
