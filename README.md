@@ -2,9 +2,9 @@
 <hr>
 
 🎓 Studying "Computer Science" with Java at PPMG "Geo Milev", Stara Zagora <br><br>
-👨‍💻 Student at SoftUni Bulgaria with C# <br><br>
+👨‍💻 Student at SoftUni Bulgaria with C# and Cybersecurity <br><br>
 📱 Obsessed with technology <br><br>
-😛 Level 16 at Life<br>
+😛 Level 17 at Life<br>
 <br>
 ### ⚡️GitHub Stats
 <hr>
